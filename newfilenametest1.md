@@ -1,8 +1,8 @@
-- - -
-title: newfilemanetest1
-description: new_test_file1
-tags: [tutorials: sap/testfiles]
-- - -
+---
+title: example
+description: example
+tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
+---
 
 some information about file
 
